@@ -1,0 +1,88 @@
+{
+    "users": [
+        {
+            "id": 1,
+            "name": "John Doe",
+            "paymentCategory": {
+                "categoryA": [
+                    {
+                        "id": 1,
+                        "amount": 100,
+                        "date": "2019-01-01"
+                    },
+                    {
+                        "id": 2,
+                        "amount": 200,
+                        "date": "2019-02-01"
+                    }
+                ],
+                "categoryB": [
+                    {
+                        "id": 3,
+                        "amount": 300,
+                        "date": "2019-03-01"
+                    },
+                    {
+                        "id": 4,
+                        "amount": 400,
+                        "date": "2019-04-01"
+                    }
+                ],
+                "categoryC": [
+                    {
+                        "id": 5,
+                        "amount": 300,
+                        "date": "2019-03-01"
+                    },
+                    {
+                        "id": 6,
+                        "amount": 400,
+                        "date": "2019-04-01"
+                    }
+                ]
+            }
+        },
+        {
+            "id": 2,
+            "name": "Maria Doe",
+            "paymentCategory": {
+                "categoryA": [
+                    {
+                        "id": 1,
+                        "amount": 100,
+                        "date": "2019-01-01"
+                    },
+                    {
+                        "id": 2,
+                        "amount": 200,
+                        "date": "2019-02-01"
+                    }
+                ],
+                "categoryB": [
+                    {
+                        "id": 3,
+                        "amount": 300,
+                        "date": "2019-03-01"
+                    },
+                    {
+                        "id": 4,
+                        "amount": 400,
+                        "date": "2019-04-01"
+                    }
+                ],
+                "categoryC": [
+                    {
+                        "id": 5,
+                        "amount": 300,
+                        "date": "2019-03-01"
+                    },
+                    {
+                        "id": 6,
+                        "amount": 400,
+                        "date": "2019-04-01"
+                    }
+                ]
+            }
+        }
+    ]
+}
